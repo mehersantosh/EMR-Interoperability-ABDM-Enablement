@@ -1,0 +1,18 @@
+# Data Sharing & Consent Management Model
+
+Consent is the foundation of trusted health data exchange.
+
+## Consent Principles
+- Patient-centric
+- Purpose-specific
+- Time-bound
+- Revocable
+
+## Practical Hospital Implementation
+- Capture consent during registration
+- Integrate consent with EMR workflows
+- Log consent events
+- Enable audit and reporting
+
+## Key Challenge
+Balancing clinical urgency with patient consent requirements.
