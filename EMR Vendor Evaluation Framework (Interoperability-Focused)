@@ -1,0 +1,20 @@
+# EMR Vendor Evaluation Framework (Interoperability-Focused)
+
+Vendor selection should prioritize interoperability
+and long-term sustainability.
+
+## Evaluation Dimensions
+- ABDM readiness
+- API availability & documentation
+- Data standards support
+- Security & privacy controls
+- Scalability & performance
+
+## Red Flags
+- Proprietary data lock-in
+- Limited API access
+- Custom integrations without standards
+- Weak consent management
+
+## Best Practice
+Prefer vendors aligned with open standards and national frameworks.
