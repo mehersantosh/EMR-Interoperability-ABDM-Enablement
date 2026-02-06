@@ -1,0 +1,22 @@
+# Interoperability Architecture – Hospital EMR Ecosystem
+
+Hospitals operate multiple clinical and administrative systems.
+Interoperability enables controlled, secure data exchange.
+
+## Typical Systems
+- EMR / EHR
+- HIS / Billing
+- LIS
+- PACS / RIS
+- External labs, insurers, registries
+
+## Architecture Principles
+- Loose coupling between systems
+- API-based integrations
+- Event-driven data exchange
+- Vendor-neutral interfaces
+
+## Recommended Approach
+- Use middleware / integration layers
+- Avoid point-to-point integrations
+- Maintain a canonical data model
